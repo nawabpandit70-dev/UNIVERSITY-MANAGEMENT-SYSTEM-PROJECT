@@ -4,7 +4,7 @@
 
 -- CREATE
 INSERT INTO students (first_name, last_name, email, date_of_birth, department_id, enrollment_year)
-VALUES ('Simran', 'Kaur', 'simran.kaur@gisma.com', '2003-03-19', 1, 2024);
+VALUES ('Simran', 'Kaur', 'simran.kaur@gmail.com', '2003-03-19', 1, 2024);
 
 -- READ
 SELECT s.student_id, s.first_name, s.last_name, d.department_name
@@ -14,7 +14,7 @@ WHERE d.department_name = 'Computer Science';
 
 -- UPDATE
 UPDATE students
-SET email = 'aman.newemail@gisma.com'
+SET email = 'aman.punia23@gmail.com'
 WHERE student_id = 1;
 
 -- DELETE
