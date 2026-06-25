@@ -19,7 +19,7 @@ WHERE student_id = 1;
 
 -- DELETE
 DELETE FROM students
-WHERE email = 'simran.kaur@gisma.com';
+WHERE email = 'simran.kaur@gmail.com';
 
 -- =========================================
 --  Join Queries
