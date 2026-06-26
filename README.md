@@ -25,8 +25,6 @@ The aim of this project is to design and implement a relational database using S
 ## Files Included
 - `university_management_system.sql` – full SQL script
 - `DML and DQL.sql` – All the query Applied
-- `ER_diagram.png` – ER diagram
-- `screenshots/` – query output screenshots
 
 ## How to Run
 1. Open XAMPP and start Apache and MySQL.
