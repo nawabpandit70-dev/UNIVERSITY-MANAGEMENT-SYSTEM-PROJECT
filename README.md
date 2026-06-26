@@ -32,7 +32,7 @@ The aim of this project is to design and implement a relational database using S
 1. Open XAMPP and start Apache and MySQL.
 2. Open phpMyAdmin.
 3. Import the `university_management_system.sql` file.
-4. Run the SQL queries to test the project.
+4. Run the SQL queries using DML and DQL.sql file to test the project.
 
 ## Author
 - Name: Nawab Pandit
